@@ -1,12 +1,14 @@
 # McFly Tester Project
 
-This project was generated from the basic template for **McFly** -- a no-framework framework that assists in leveraging the web platform.
-
-It contains example files to get you started using vanilla web technologies in a modern way. See the [Special Directories](#special-directories) section for more information.
+This project was generated from the basic template for [**McFly**](https://mcfly.js.org) -- a no-framework framework that assists in leveraging the web platform.
 
 ## Try it today
 
-You can try it now by running: `npm create mcfly@latest`
+You can try [McFly](https://mcfly.js.org) now by running:
+
+```bash
+npm create mcfly@latest
+```
 
 ## Test Deployments
 
