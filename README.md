@@ -12,9 +12,9 @@ You can try it now by running: `npm create mcfly@latest`
 
 McFly test app zero config deployment to netlify & vercel, will add more test deployments
 
-repo: https://ayco.io/gh/mcfly-example
-netlify: https://mcfly-example.netlify.app/
-vercel: https://mcfly-example.vercel.app/
+- repo: https://ayco.io/gh/mcfly-example
+- netlify: https://mcfly-example.netlify.app/
+- vercel: https://mcfly-example.vercel.app/
 
 ## Special directories
 **1. `./src/pages/`**
