@@ -1,8 +1,20 @@
-# McFly Starter Project
+# McFly Tester Project
 
 This project was generated from the basic template for **McFly** -- a no-framework framework that assists in leveraging the web platform.
 
 It contains example files to get you started using vanilla web technologies in a modern way. See the [Special Directories](#special-directories) section for more information.
+
+## Try it today
+
+You can try it now by running: `npm create mcfly@latest`
+
+## Test Deployments
+
+McFly test app zero config deployment to netlify & vercel, will add more test deployments
+
+repo: https://ayco.io/gh/mcfly-example
+netlify: https://mcfly-example.netlify.app/
+vercel: https://mcfly-example.vercel.app/
 
 ## Special directories
 **1. `./src/pages/`**
