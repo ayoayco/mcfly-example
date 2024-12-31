@@ -1,0 +1,18 @@
+{
+  "name": "@templates/basic",
+  "description": "McFly starter project",
+  "scripts": {
+    "start": "mcfly serve",
+    "prepare": "mcfly prepare",
+    "dev": "mcfly serve",
+    "build": "mcfly build",
+    "preview": "node .output/server/index.mjs",
+    "build:preview": "npm run build && npm run preview"
+  },
+  "dependencies": {
+    "@mcflyjs/cli": "^0.1.1",
+    "@mcflyjs/config": "^0.2.1",
+    "@mcflyjs/core": "^0.6.1",
+    "nitropack": "~2.10.4"
+  }
+}
